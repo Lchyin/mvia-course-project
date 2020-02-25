@@ -1,2 +1,1 @@
-# mvia-course-project
-machine-version
+## 机器视觉实训作业
