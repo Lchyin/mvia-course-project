@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/monster/mvia-course-project/sl.c
+curses.h
+-
+signal.h
+-
+unistd.h
+-
+sl.h
+/home/monster/mvia-course-project/sl.h
+
+/home/monster/mvia-course-project/sl.h
+

@@ -1,0 +1,3 @@
+/home/monster/mvia-course-project/build/CMakeFiles/rebuild_cache.dir
+/home/monster/mvia-course-project/build/CMakeFiles/sl.dir
+/home/monster/mvia-course-project/build/CMakeFiles/edit_cache.dir
